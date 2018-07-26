@@ -4,7 +4,7 @@
   "description": "takehome test for getfeedback",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "node app.js"
   },
   "repository": {
     "type": "git",
